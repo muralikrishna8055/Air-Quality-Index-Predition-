@@ -1,0 +1,2 @@
+# Air-Quality-Index-Predition-
+The proposed system in this project aims to develop a simple and user-friendly Air Quality Index (AQI) prediction model. It combines machine learning techniques, particularly Random Forest Regression, with meteorological factors to predict AQI levels. Additionally, the project involves the creation of a mobile-based application, with a Flask backend and a Flutter front-end, to provide users with easy access to real-time AQI predictions and historical air quality data.
