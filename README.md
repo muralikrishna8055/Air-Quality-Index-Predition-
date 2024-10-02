@@ -1,6 +1,6 @@
 # Air Quality Index Predition Using Deep Learning with Weather API Integration
 
-![1](https://github.com/Vishnu-Priya0607/Air-Quality-Index-Predition-Using-Deep-Learning/assets/119881668/16408a08-d605-437c-8f20-b583d0126770)           ![2](https://github.com/Vishnu-Priya0607/Air-Quality-Index-Predition-Using-Deep-Learning/assets/119881668/630d07b0-2ce5-4f4a-8112-87632e1e108a)
+!
 
 
 
