@@ -1,9 +1,5 @@
 # Air Quality Index Predition Using Deep Learning with Weather API Integration
 
-!
-
-
-
 Air quality index is an index for reporting air quality on a daily basis. it is a measure of how air pollution affects one’s health within a short time period. The AQI is calculated based on the average concentration of a particular pollutant measured over a standard time interval. The primary goal is to predict AQI, since the class label is continuous regression is used. The regression technique used is random forest regression. This project introduces a system for Air Quality Index (AQI) prediction that leverages deep learning in combination with real-time weather data sourced from APIs.  Key features of the system include the integration of weather data through a dedicated API. Parameters such as temperature, humidity, wind speed, and more are collected, as these elements significantly influence air quality. The system's core component is a deep learning model that undergoes training using historical data and the newly acquired meteorological parameters. To ensure personalized and location-specific AQI predictions, the system automatically retrieving the user's location. This feature allows the system to tailor its forecasts to the unique conditions of each area. In addition to real-time AQI predictions, the system offers the capability to forecast AQI for the next four days helping users to plan outdoor activities and make decisions based on projected air quality trends.
 
 # PROPOSED SYSTEM
